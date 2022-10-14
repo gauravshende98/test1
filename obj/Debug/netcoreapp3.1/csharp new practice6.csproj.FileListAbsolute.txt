@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\csharp new practice6\bin\Debug\netcoreapp3.1\csharp new practice6.exe
+C:\Users\hp\source\repos\csharp new practice6\bin\Debug\netcoreapp3.1\csharp new practice6.deps.json
+C:\Users\hp\source\repos\csharp new practice6\bin\Debug\netcoreapp3.1\csharp new practice6.runtimeconfig.json
+C:\Users\hp\source\repos\csharp new practice6\bin\Debug\netcoreapp3.1\csharp new practice6.runtimeconfig.dev.json
+C:\Users\hp\source\repos\csharp new practice6\bin\Debug\netcoreapp3.1\csharp new practice6.dll
+C:\Users\hp\source\repos\csharp new practice6\bin\Debug\netcoreapp3.1\csharp new practice6.pdb
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.AssemblyInfo.cs
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.dll
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.pdb
+C:\Users\hp\source\repos\csharp new practice6\obj\Debug\netcoreapp3.1\csharp new practice6.genruntimeconfig.cache

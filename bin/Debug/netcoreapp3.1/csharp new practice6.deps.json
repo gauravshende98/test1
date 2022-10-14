@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "csharp new practice6/1.0.0": {
+        "runtime": {
+          "csharp new practice6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp new practice6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
